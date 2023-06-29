@@ -1,19 +1,2 @@
-# subwayitem
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 项目介绍
+数据结构的课设作业，使用vue和Django、Neo4j实现的全国地铁换乘项目
